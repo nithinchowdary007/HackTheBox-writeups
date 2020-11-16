@@ -18,7 +18,7 @@ $ java -jar stegsolve.jar
 ```
 while changeing the planes we can find some text written on it
 
-![diffPlaneForest](./diffPlaneForest)
+![diffPlaneForest.png](./diffPlaneForest.png)
 
 Text: IsJuS1Af0r3sTbR0
 
