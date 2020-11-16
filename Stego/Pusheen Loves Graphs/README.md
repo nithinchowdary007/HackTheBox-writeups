@@ -17,7 +17,7 @@ Note: change the graphview limit in options if its shows limit error.
 
 In that graph view you can find the flag .
 
-![IDA-graph.png](IDA_graph.png)
+![IDA-graph.png](./IDA_graph.png)
 
 <!-- Flag: -->
 ## Flag:
