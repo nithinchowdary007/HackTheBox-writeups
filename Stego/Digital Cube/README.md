@@ -17,7 +17,7 @@ A text file containing 1s and 0s is given. [digitalcube.txt](./digitalcube.txt)
 I've tried binary decoding and morse but it didn't work.
 Then tried binary to img decoding and it gave a qrcode.
 
-![decode-image.png](./decode-image.png)
+![dcode-image.png](./dcode-image.png)
 
 Use [Zbarimg](https://wiki.bi0s.in/steganography/zbarimg/) tool to analyse the QR coded.
 ```
