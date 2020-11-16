@@ -23,7 +23,9 @@ cat meow_flag.txt | base64 -d | xxd -r -p > image.png
 ```
 
 Now use stegsolve tool to analyse the image which shows something hidden in image in brilie script.
-
+```
+$ sudo  java -jar stegsolve.jar
+```
 ![brilie.png](./brilie.png)
 
 decode that and you'll get the flag.
