@@ -1,5 +1,5 @@
 <!-- [30 Points] Pusheen Loves Graphs -->
-## [30 Points] Pusheen Loves Graphs
+# [30 Points] Pusheen Loves Graphs
 
 
 Pusheen just loves graphs, Graphs and IDA. Did you know cats are weirdly controlling about their reverse engineering tools? Pusheen just won't use anything except IDA.
