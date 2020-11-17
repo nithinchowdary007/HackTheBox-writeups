@@ -18,6 +18,7 @@ use magic recipe in intensive mode on the file [password](./password).
 
 ![magic.png](./magic.png)
 Select the Xor operation.
+![XOR.png](XOR.png)
 save the output. we'll get a zip file and when you unzip it, we'll get a textfile with flag.
 
 <!-- Flag: -->
