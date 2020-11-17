@@ -7,13 +7,13 @@ A Junior Developer just switched to a new source control platform. Can you find 
 You can see two files extracted from it when you unzip the given zip file.
 But there is no use of those 2 files and you can find .git directory in the extracted folder when we use `$ ls -al`.
 That says that the commit history of git repository.
-we can see that commit history by using the command `$ git log` and it gives you the commits and their details.
+we can see that commit history by using the command  [git log](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History) and it gives you the commits and their details.
 
 ![gitlog.png](./gitlog.png)
 
 When we look into that log history. There's a commit saying that `Thanks to contributors, I removed the unique token as it was a security risk. Thanks for reporting responsibly!`
 
-Now we can use `git show` command to see full details about that commit.
+Now we can use [git show](https://git-scm.com/docs/git-show) command to see full details about that commit.
 ```
 $ git show 47241a47f62ada864ec74bd6dedc4d33f4374699
 ```
